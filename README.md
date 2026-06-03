@@ -35,7 +35,7 @@ The pipeline extracts raw operational data and transforms it into structured lay
 ###  3. High-Value VIP Customer Segmentation
 * **Objective:** Isolate high-performing revenue cohorts exceeding baseline lifecycle averages.
 * **Methodology:** Constructed a scalable `WITH` clause (Common Table Expression) to pre-aggregate customer lifetime transactions before evaluating them via a scalar subquery.
-* **Strategic Value:** Empowers marketing departments to identify high-value consumer targets for premium loyalty tiers and personalized retention outreach.
+* **Strategic Value:** Demonstrates how customer spending data can be used to identify high-value customers for targeted marketing campaigns.
 
 ###  4. Revenue Leakage & Churn Tracking
 * **Objective:** Audit active operational risk stemming from outstanding physical company assets.
